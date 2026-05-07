@@ -1,0 +1,46 @@
+body {
+    /* Applique le style à toutes les pages */
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+h1{ color: darkblue;
+text-align: center;
+}
+h2{ color: #333;
+}
+p{
+    font-size: 16px;
+    line-height: 1.5;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    margin-right: 15px;
+}
+a:hover {
+    color: red;
+}
+ul{
+    background-color: blue;
+    padding: 10px;
+}
+li{
+    margin-bottom: 5px;
+}
+img{
+    border-radius: 10px;
+    margin-top: 10px;
+}
+/*
+.section {
+    background-color: orangered;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.highlight {
+    color: green;
+    font-weight: bold;
+}*/
+
